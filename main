@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <title>Barber-shop</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <!-- main section -->
+        <section>
+            <img src="./images/logo.PNG" alt="logo1">
+            <!-- CTRL /-->
+            <nav>
+                <ul>
+                    <li>
+                        <a href="about.html">About me</a>
+                    </li>
+                    <li>
+                        <a href="">Sevices and prices</a>
+                    </li>
+                    <li>
+                        <a href="">Barbers</a>
+                    </li>
+                    <li>
+                        <a href="">Contacts</a>
+                    </li>
+                    <li>
+                        <a href="tel:+38-044-111-11-11">+38-044-111-11-11</a>
+                    </li>
+                    <li>
+                        <button>Book a service</button>
+                    </li>
+                </ul>
+            </nav>
+            <h1>BarberShop</h1>
+            <h3>We are experts in trendy men's haircuts.<br>
+                We work quickly, carefully, and tastefully.</h3>
+        
+        </section>
+        <!-- About section -->
+        <section>
+            <img src="./images/img 1.png">imagine1
+            <img src="./images/img 2.png">imagine2
+            <h1>The best.....</h1>
+            <h4>vccjcjcj.............</h4>
+            <p>descriere...............</p>
+            <button>buton</button>
+        </section>
+        <!-- Services and Prices-->
+        <section>
+            <h1>Services and Prices</h1>
+            <ul>
+                
+                <li><span>fyufyufuy___________hffff</span></li>
+                <li><span>fyufyufuy___________hffff</span></li>
+                <li><span>fyufyufuy___________hffff</span></li>
+                <li><span>fyufyufuy___________hffff</span></li>
+            </ul>
+            <ol>
+                <li><span>adgggg______________aahhgggg</span></li>
+                <li><span>adgggg______________aahhgggg</span></li>
+                <li><span>adgggg______________aahhgggg</span></li>
+                <li><span>adgggg______________aahhgggg</span></li>
+            </ol>
+        </section>
+    </body>
+</html>
